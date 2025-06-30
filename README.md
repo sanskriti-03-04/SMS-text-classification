@@ -48,14 +48,6 @@ The model uses the following architecture:
 
 *Performance may vary slightly depending on training parameters.*
 
-## ▶️ How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/sms-text-classification.git
-cd sms-text-classification
-
 ## 🧠 Key Learnings
 Applied natural language processing using TensorFlow pipelines.
 Understood and implemented embedding-based deep learning models.
