@@ -49,18 +49,18 @@ The model uses the following architecture:
 *Performance may vary slightly depending on training parameters.*
 
 ## 🧠 Key Learnings
-Applied natural language processing using TensorFlow pipelines.
-Understood and implemented embedding-based deep learning models.
-Learned how to use TextVectorization for efficient preprocessing.
-Practiced evaluating model performance using accuracy/loss metrics.
-Gained confidence working with external datasets and .tsv files.
+-Applied natural language processing using TensorFlow pipelines.
+-Understood and implemented embedding-based deep learning models.
+-Learned how to use TextVectorization for efficient preprocessing.
+-Practiced evaluating model performance using accuracy/loss metrics.
+-Gained confidence working with external datasets and .tsv files.
 
 ## 🚧 Future Enhancements
-Add Bidirectional LSTM or GRU layers for better sequence modeling.
-Integrate pre-trained word embeddings like GloVe or FastText.
-Create a Streamlit or Gradio app for interactive spam detection.
-Deploy the model using Flask API or on Hugging Face Spaces.
-Improve preprocessing pipeline with lemmatization, stopword removal, etc.
+-Add Bidirectional LSTM or GRU layers for better sequence modeling.
+-Integrate pre-trained word embeddings like GloVe or FastText.
+-Create a Streamlit or Gradio app for interactive spam detection.
+-Deploy the model using Flask API or on Hugging Face Spaces.
+-Improve preprocessing pipeline with lemmatization, stopword removal, etc.
 
 
 
